@@ -1,0 +1,32 @@
+@charset "utf-8";
+/* CSS Document */
+
+@import url('https://fonts.googleapis.com/css?family=Lobster+Two|Poppins');
+
+body {
+	background-color: #000;
+}
+
+#mag {
+	display: block;
+	margin: 0 auto;
+}
+
+iframe {
+	display: block;
+	margin: 0 auto;
+}
+
+a {
+	color: #FFF;
+	text-decoration: none;
+	font-size: 0.9rem;
+	text-transform: uppercase;
+	font-family: 'Poppins', sans-serif;
+}
+
+a:hover {
+	color: mediumpurple;
+	font-size: 110%;
+}
+
