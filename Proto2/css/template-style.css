@@ -2,7 +2,6 @@
 
 body {
 	background-color: #0b192f;
-	display: none;
 
 }
 nav {
@@ -265,7 +264,7 @@ form.customform input, form.customform select, form.customform textarea {
 
 #photos {
 	line-height: 0;
-	column-count: 3;
+	column-count: 4;
 	column-gap: 0;
 	background-color: #FFF;
 }
