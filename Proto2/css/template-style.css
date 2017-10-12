@@ -36,7 +36,7 @@ nav {
 	text-align: center;
 }
 .top-nav li a:hover, .top-nav li.active-item a, .top-nav .logo.active-item a:hover {
-	background: #b71757;
+	background: #0d7e71;
 }
 .top-nav li.logo a, .top-nav li.logo.active-item a, .top-nav .logo {
 	background: #b71757;
