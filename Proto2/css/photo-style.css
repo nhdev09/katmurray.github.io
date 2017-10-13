@@ -263,15 +263,15 @@ form.customform input, form.customform select, form.customform textarea {
 }
 
 #photos {
-	line-height: 0;
-	column-count: 4;
-	column-gap: 0;
-	background-color: #FFF;
+	width: 100%;
+	height: 100%;
+	background-color: #0b192f;
 }
 
 #photos img {
-	width: 100% !important;
-	height: 100% !important;
+	width: 48% !important;
+	height: 48% !important;
+	display: inline-block;
 }
 
 img.hover:hover {
