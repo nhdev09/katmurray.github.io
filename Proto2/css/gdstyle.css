@@ -2,7 +2,7 @@
 
 body {
 	background-color: #0b192f;
-
+	display: none;
 }
 nav {
 	background: none repeat scroll 0 0 rgba(0, 0, 0, 0);
